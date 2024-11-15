@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning vue Js and working on my web application project and making vue components<br>ask me about Front end problems ;)
+I'm currently learning vue Js, working on my web application project and making vue components just for fun<br>ask me about Front End problems ;)
 
 
 ## 🌐 Socials:
