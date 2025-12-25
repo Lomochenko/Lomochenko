@@ -2,7 +2,7 @@
 Frontend Developer focused on building modern, performant web applications using Vue and Nuxt.<br>BSc in Software Engineering, currently pursuing an MSc in Artificial Intelligence.<br>Experienced with component-based architecture and clean UI implementation.<br>Interested in integrating practical AI features (chatbots, AR/3D components) into real-world web products.<br>Open to remote opportunities and collaboration.
 
 
-## talk to me:
+# Talk To Me:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ali.naseri3179@gmail.com ) 
 
 # Tech Stack:
