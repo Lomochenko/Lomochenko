@@ -1,5 +1,5 @@
 # About Me:
-Frontend Developer focused on building modern, performant web applications using Vue and Nuxt.<br>BSc in Software Engineering, currently pursuing an MSc in Artificial Intelligence.<br>Experienced with component-based architecture and clean UI implementation.<br>Interested in integrating practical AI features (chatbots, AR/3D components) into real-world web products.<br>Open to remote opportunities and collaboration.
+Frontend Developer focused on learning/building modern, performant web applications using Vue and Nuxt.<br>BSc in Software Engineering, currently pursuing an MSc in Artificial Intelligence.<br>Experienced with component-based architecture and clean UI implementation.<br>Interested in integrating practical AI features (chatbots, AR/3D components) into real-world web products.<br>Open to remote opportunities and collaboration.
 
 
 # Talk To Me:
